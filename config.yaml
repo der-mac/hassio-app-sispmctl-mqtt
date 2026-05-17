@@ -1,6 +1,6 @@
 name: "Gembird SisPM MQTT Bridge"
 description: "Steuert die Gembird SisPMCTL USB-Steckdosenleiste über MQTT mit Home Assistant Discovery"
-version: "1.0.0"
+version: "1.0.1"
 slug: "sispmctl_mqtt"
 init: false
 arch:
