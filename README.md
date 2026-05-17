@@ -1,4 +1,4 @@
-# Gembird SisPM MQTT Bridge — Home Assistant Add-on
+# Gembird SisPM MQTT Bridge — Home Assistant App
 
 Verbindet eine Gembird SisPMCTL USB-Steckdosenleiste (EG-PMS2, 4 Outlets)
 mit Home Assistant ueber MQTT. Die Steckdosen erscheinen automatisch via
@@ -6,9 +6,9 @@ MQTT Discovery als schaltbare switch-Entitaeten.
 
 ## Installation
 
-1. Einstellungen > Add-ons > Add-on-Store > Menue > Repository hinzufuegen
+1. Einstellungen > Apps > Apps installieren > Menue > Repositories -> Hinzufuegen
 2. URL dieses GitHub-Repositories eintragen
-3. Add-on installieren, Konfiguration anpassen, Starten
+3. App installieren, Konfiguration anpassen, Starten
 
 ## Konfiguration
 
