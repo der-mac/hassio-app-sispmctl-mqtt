@@ -6,4 +6,4 @@ RUN apt-get update \
     && rm -rf /var/lib/apt/lists/*
 
 COPY rootfs /
-RUN chmod +x /app/run.sh /app/sispmctl_mqtt.sh
+RUN chmod +x /etc/services.d/sispmctl/run /app/sispmctl_mqtt.sh
